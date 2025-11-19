@@ -123,7 +123,7 @@ SelectC.cod = "SELECT " + LCampo.lista + " FROM " + ID.lexema + OptWhere.cod
 Cada regla especifica cómo calcular el atributo del lado izquierdo a partir de los atributos de los símbolos en el lado derecho.
 
 
-##PUNTO 2
+## PUNTO 2
 
 # Parser para Lenguaje de Operaciones Matriciales
 
